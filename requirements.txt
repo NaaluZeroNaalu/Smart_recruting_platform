@@ -2,7 +2,7 @@ numpy
 openai
 langchain
 pinecone
-langchain pinecone-client
+langchain-pinecone
 langchain community
 secure-smtplib
 langchain_openai
