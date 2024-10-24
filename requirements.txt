@@ -3,6 +3,6 @@ openai
 langchain
 pinecone
 langchain-pinecone
-langchain community
+langchain-community
 secure-smtplib
 langchain_openai
