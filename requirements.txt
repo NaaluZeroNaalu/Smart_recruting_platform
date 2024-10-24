@@ -6,5 +6,5 @@ langchain-pinecone
 langchain-community
 secure-smtplib
 langchain_openai
-sqlite3
+db-sqlite3
 streamlit-navigation-bar
