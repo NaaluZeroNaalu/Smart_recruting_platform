@@ -43,7 +43,7 @@ def Displayresult():
 
 st.session_state.score = 0
 topic = st.session_state.skr
-st.write(f"Generate 20 interview questions and answers  {topic} in JSON format with choices. No comments or explanations.")
+# st.write(f"Generate 20 interview questions and answers  {topic} in JSON format with choices. No comments or explanations.")
 try:
     if 'sk' in st.session_state:
         # Check if questions have been generated
