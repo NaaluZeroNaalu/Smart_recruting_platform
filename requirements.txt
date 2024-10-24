@@ -1,1 +1,8 @@
 numpy
+openai
+langchain
+pinecone
+langchain pinecone-client
+langchain community
+secure-smtplib
+langchain_openai
