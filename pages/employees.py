@@ -183,7 +183,7 @@ if st.toggle("Enable AI Search"):
 else:
     data = fetch_resumes()
     df = pd.DataFrame(data, columns=['user_name', 'resume', 'email'])
-    search_term = st.text_input("Search Resumes", "",placeholder="Enter the skills, location)
+    search_term = st.text_input("Search Resumes",placeholder="Enter the skills, location)
     
     filtered_df = filter_resumes(df, search_term)
     
