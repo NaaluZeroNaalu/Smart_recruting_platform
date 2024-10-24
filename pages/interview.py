@@ -5,7 +5,7 @@ import pandas as pd
 import sqlite3 as sqlite
 
 # Set your OpenAI API key
-openai_api_key = "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"
+openai_api_key = "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"
 
 model = ChatOpenAI(temperature=0.7, api_key=openai_api_key)
 
